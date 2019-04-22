@@ -1,7 +1,5 @@
 <?php
 
-echo "Meu primeiro código PHP! <strong>olá mundo</strong>";
+  echo "ola !";
 
 ?>
-
-php7.
