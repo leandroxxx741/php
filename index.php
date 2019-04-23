@@ -1,5 +1,8 @@
 <?php
 
-  echo "ola !";
+echo "Meu primeiro código PHP!";
 
+echo "Mudanca codigo!";
 ?>
+
+php7.
